@@ -12,6 +12,17 @@ It’s ideal for network engineers, field technicians, and sysadmins who want qu
 - Tests: IP/MAC, Gateway, Ping (exact ms), Speedtest (auto retry)
 - Colored terminal output and persistent logs
 
+## 🧰 Requirements
+
+| Dependency | Purpose | Install (Debian/Ubuntu) |
+|-------------|----------|-------------------------|
+| `bash` | Shell interpreter | *(default)* |
+| `nmcli` | NetworkManager CLI | `sudo apt install network-manager` |
+| `ping` | Network reachability test | *(default)* |
+| `speedtest` | Speedtest CLI by Ookla | `sudo apt install speedtest-cli` *(or Ookla’s official binary)* |
+| `awk`, `grep`, `sed` | Text parsing tools | *(default)* |
+
+
 ## ⚙️ Installation
 
 ```bash
