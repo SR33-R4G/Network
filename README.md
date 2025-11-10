@@ -25,8 +25,8 @@ chmod +x networktest
 
 | Description | Screenshot |
 |--------------|-------------|
-| **Running networktest in terminal** | ![Terminal Output](/Network/images/sample_output.png) |
-| **structure of file system** | ![Terminal Output](/Network/images/structure.png) |
+| **Running networktest in terminal** | ![Terminal Output](/Network/sample_output.png) |
+| **structure of file system** | ![Terminal Output](/Network/structure.png) |
 
 
 ## 🏷️ Author
